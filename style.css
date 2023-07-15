@@ -1,0 +1,33 @@
+/* root containing all primary and secondry colors, font sizes used in this website  */
+:root{
+    /* --background-color: ;
+    --small-color: ;
+    --h1-font: ;
+    --h2-font-size: ;
+    --h2-font-size: ;
+    --h4-font-size: ;
+    --h5- */
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* stylong for top section  */
+#top{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+.logo{
+    width: 20%; 
+    background-color: #111;  
+}
+.nav-bar{
+    width: 80%;
+}
+/*  */
+.navigation{
+    background-color: red;
+    color: #fff;
+}
